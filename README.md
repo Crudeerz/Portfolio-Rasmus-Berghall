@@ -17,3 +17,10 @@ When I'm free from work and studying I spend most of my time on the golf course 
 
 [pyprog]: (https://github.com/Crudeerz/Python-Rasmus-Berghall)
 [data]: (https://github.com/Crudeerz/DataAnalysis)
+
+## Contact me :iphone:
+ - ![linkedIn icon](assets/linkedIn-icon.png) 
+ [linkedin]
+
+ [linkedin]: www.linkedin.com/in/rasmus-berghall
+

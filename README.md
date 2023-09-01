@@ -22,5 +22,7 @@ When I'm free from work and studying I spend most of my time on the golf course 
  - ![linkedIn icon](assets/linkedIn-icon.png) 
  [linkedin]
 
- [linkedin]: www.linkedin.com/in/rasmus-berghall
+ [linkedin]:  https://www.linkedin.com/in/rasmus-berghall/
+
+
 

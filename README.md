@@ -9,14 +9,18 @@ When I'm free from work and studying I spend most of my time on the golf course 
 
 | Repo | Description |
 | ----------- | ----------- |
-| [Python Programming][pyprog] | First course in python |
-| [Data Analysis][data] | Analysing data from NC machine |
+| [Python Programming][pyprog]  | First course in python |
+| [Data Processing][datapr]     | Dataprocessing course |
+| [Plotly Dash Project][dashproj]        | Plotly dash Data-Project ITHS |
+| [Industrial Data Analysis][data]         | Analysing data from NC machine |
 
 ---
 
 
 [pyprog]: https://github.com/Crudeerz/Python-Rasmus-Berghall
 [data]: https://github.com/Crudeerz/DataAnalysis
+[datapr]: https://github.com/Crudeerz/Dataprocessing-Rasmus-Berghall
+[dashproj]:https://github.com/Crudeerz/ProjectOS-Ungern
 
 ## Contact me :iphone:
  - ![linkedIn icon](assets/linkedIn-icon.png) 
